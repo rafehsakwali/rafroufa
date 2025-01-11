@@ -40,7 +40,7 @@ a {
     align-items: center;
     justify-content: center;
 	position: relative;
-    background-image: url('sing5.jpeg'); /* Remplacez par le chemin de votre image */
+    background-image: url('/assets/images/sing5.jpeg'); /* Remplacez par le chemin de votre image */
     background-attachment: fixed; /* Image reste fixe */
     background-size: cover; /* L'image couvre toute la section */
     background-position: center;
